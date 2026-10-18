@@ -1,0 +1,6 @@
+{
+  "name": "Arait Music",
+  "description": "Production-ready music streaming platform with authorized full-length playback, multi-provider search, synchronized lyrics, personalized recommendations, and PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

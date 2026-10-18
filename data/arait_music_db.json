@@ -1,0 +1,131 @@
+{
+  "users": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": {
+      "id": "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3",
+      "email": "test@araitmusic.com",
+      "passwordHash": "3e893272268801023bc6b3eb83d147d14e8641028b30c861859ba40dea21f146dc08c776303d6cad0068ee8251a0e36fddfc3847ea360e8b577d2eed5eeb9301",
+      "salt": "aecb478dd955df81b2ce8d0668d96bc6",
+      "displayName": "Mohit",
+      "preferredLanguages": [
+        "Hindi",
+        "Punjabi",
+        "English"
+      ],
+      "personalizationEnabled": true,
+      "includePreviews": false,
+      "createdAt": "2026-10-18T14:51:51.773Z"
+    }
+  },
+  "sessions": {
+    "tok_c6416892695a07b7a22d02545b0f5b52a1e182907f36f150ef33bf83aacf51c4": "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3"
+  },
+  "likedSongs": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": []
+  },
+  "playlists": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": []
+  },
+  "followedArtists": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": []
+  },
+  "listeningHistory": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": []
+  },
+  "searchHistory": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": [
+      {
+        "id": "sh_8eb01e35-601f-4c01-b7e0-bdcede5e0d50",
+        "query": "Search Song 5",
+        "timestamp": 1792335111838,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_ae8c19b1-d6bf-4699-ba9e-0886d8900be8",
+        "query": "Search Song 16",
+        "timestamp": 1792335111836,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_f12a96f6-644a-4619-989c-fa528f23f978",
+        "query": "Search Song 15",
+        "timestamp": 1792335111834,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_e2b894db-e819-4212-a4c8-fe885e653e71",
+        "query": "Search Song 14",
+        "timestamp": 1792335111832,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_8adb464b-8ee0-4e97-bde9-3fde66fb05b6",
+        "query": "Search Song 13",
+        "timestamp": 1792335111830,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_aa22090d-f480-4242-86c1-9149d8c73a82",
+        "query": "Search Song 12",
+        "timestamp": 1792335111828,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_9dfd0986-edcd-4412-96b8-8264fef0c5c4",
+        "query": "Search Song 11",
+        "timestamp": 1792335111826,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_4ca37ff0-77f2-487d-b73a-89aa724e002e",
+        "query": "Search Song 10",
+        "timestamp": 1792335111824,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_792ace1e-7670-4c24-8bb3-d527ff62c275",
+        "query": "Search Song 9",
+        "timestamp": 1792335111822,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_598a115a-7dbb-4aef-a303-299d5ddc7d14",
+        "query": "Search Song 8",
+        "timestamp": 1792335111818,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_67ac4fc4-944e-4a08-b7c9-e7880ecbb748",
+        "query": "Search Song 7",
+        "timestamp": 1792335111813,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_563a4b90-d9e0-43fe-8edc-a1e1e61090af",
+        "query": "Search Song 6",
+        "timestamp": 1792335111810,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_4910feae-c1f7-4af6-b340-c89b6ff0b38d",
+        "query": "Search Song 4",
+        "timestamp": 1792335111803,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_82485b0e-ad34-49bf-94df-23d43e16b6fe",
+        "query": "Search Song 3",
+        "timestamp": 1792335111799,
+        "search_type": "general"
+      },
+      {
+        "id": "sh_a1c67b7b-1e3c-4ad2-87c9-0b9c02d12d09",
+        "query": "Search Song 2",
+        "timestamp": 1792335111793,
+        "search_type": "general"
+      }
+    ]
+  },
+  "hiddenTrackIds": {
+    "usr_377bd71f-85bf-4917-b4b8-75fc27255ef3": []
+  }
+}
